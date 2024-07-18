@@ -1,1 +1,2 @@
 # IoT-based-smart-warehouse-management-system
+The Smart Warehouse Management System integrates IoT devices to monitor product quantity, temperature, humidity, and detect smoke/fire hazards, as well as food spoilage. It ensures real-time tracking, optimal storage conditions, and automated inventory management. Advanced sensors enable early detection of smoke, fire, and potential food spoilage, enhancing safety and minimizing risks. Stakeholders receive timely alerts, allowing quick responses during emergencies.
